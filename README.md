@@ -1,10 +1,10 @@
-### This project is created for Amazon State Language (ASL) integration with manageiq
+# This project is created for Amazon State Language (ASL) integration with manageiq
 
-node >= v18
-npm >= v8 
+1. node >= v18
+2. npm >= v8 
 
-# Perform following commands 
+## Perform following commands 
 
-npm i
-npm run build 
-npm start
+1. npm i
+2. npm run build 
+3. npm start
